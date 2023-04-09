@@ -1,0 +1,606 @@
+{
+    "position_groups": [
+        {
+            "profile_positions": [
+                {
+                    "title": "Senior Product Designer",
+                    "date": {
+                        "end": {
+                            "year": null,
+                            "month": null
+                        },
+                        "start": {
+                            "year": 2019,
+                            "month": 11
+                        }
+                    },
+                    "description": "Designed white-label end-to-end digital transaction platform from MVP to the actual product with 450+ financial institutions connected, $2 billion assets on the platform, and 5 industry awards in 2 years. Collaborated closely with developers to cover all digital assets needs from data room to investments.",
+                    "location": "London, England, United Kingdom",
+                    "company": "VALK"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFSiyPcNWH9xQ/company-logo_400_400/0/1648664194032?e=1689206400&v=beta&t=qB5aZE7a_0AbjUzrQKFTa6W7qMlRZkd70SZVpR1vbkk",
+                "name": "VALK",
+                "url": "https://www.linkedin.com/company/valktech/",
+                "employees": {
+                    "end": 50,
+                    "start": 11
+                }
+            },
+            "date": {
+                "end": {
+                    "year": null,
+                    "month": null
+                },
+                "start": {
+                    "year": 2019,
+                    "month": 11
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/valktech/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Lead UX/UI Designer",
+                    "date": {
+                        "end": {
+                            "year": null,
+                            "month": null
+                        },
+                        "start": {
+                            "year": 2018,
+                            "month": 3
+                        }
+                    },
+                    "description": "Promoted to Lead UX/UI Designer in 5 months. Worked with Russia Top-30 and world-known brands (Kaspersky, OTPBank, etc.) and managed 5+ team projects from start to finish. Got experience in tutoring junior designers. Created 50+ web and mobile app projects in different areas",
+                    "location": "Moscow, Russia",
+                    "company": "Spacecode"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C560BAQGBzfZYabB6ag/company-logo_400_400/0/1602590920972?e=1689206400&v=beta&t=KqGlf3X2ni2VZwdBEHKeJdsmToEB4v_-lwsrRAessoo",
+                "name": "Spacecode",
+                "url": "https://www.linkedin.com/company/spacecoderu/",
+                "employees": {
+                    "end": 50,
+                    "start": 11
+                }
+            },
+            "date": {
+                "end": {
+                    "year": null,
+                    "month": null
+                },
+                "start": {
+                    "year": 2018,
+                    "month": 3
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/spacecoderu/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Product Designer",
+                    "date": {
+                        "end": {
+                            "year": 2020,
+                            "month": 10
+                        },
+                        "start": {
+                            "year": 2020,
+                            "month": 6
+                        }
+                    },
+                    "description": null,
+                    "location": "Cape Town, Western Cape, South Africa",
+                    "company": "Music Platform (NDA)"
+                }
+            ],
+            "company": {
+                "logo": null,
+                "name": "Music Platform (NDA)",
+                "url": null,
+                "employees": {
+                    "end": null,
+                    "start": null
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2020,
+                    "month": 10
+                },
+                "start": {
+                    "year": 2020,
+                    "month": 6
+                }
+            },
+            "company_url": null
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "UX/UI Designer",
+                    "date": {
+                        "end": {
+                            "year": 2018,
+                            "month": 1
+                        },
+                        "start": {
+                            "year": 2017,
+                            "month": 8
+                        }
+                    },
+                    "description": "Was hired as a graphic designer to work on branding and POS but promoted to UX/UI designer with a couple of regional awarded promo websites.",
+                    "location": "Irkutsk, Russia",
+                    "company": "Topsite"
+                }
+            ],
+            "company": {
+                "logo": null,
+                "name": "Topsite",
+                "url": null,
+                "employees": {
+                    "end": null,
+                    "start": null
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2018,
+                    "month": 1
+                },
+                "start": {
+                    "year": 2017,
+                    "month": 8
+                }
+            },
+            "company_url": null
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Designer",
+                    "date": {
+                        "end": {
+                            "year": 2017,
+                            "month": 8
+                        },
+                        "start": {
+                            "year": 2015,
+                            "month": 11
+                        }
+                    },
+                    "description": "My part-time graphic and web-design hobby has turned into the main source of income in only 6 months.",
+                    "location": "Irkutsk, Russia",
+                    "company": "Upwork"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_400_400/0/1620158724382?e=1689206400&v=beta&t=6IiW3vrkOO9_zOXQIp1SzedDZZDNS-VDh5yIAFqVtK8",
+                "name": "Upwork",
+                "url": "https://www.linkedin.com/company/upwork/",
+                "employees": {
+                    "end": 1000,
+                    "start": 501
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2017,
+                    "month": 8
+                },
+                "start": {
+                    "year": 2015,
+                    "month": 11
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/upwork/"
+        }
+    ],
+    "profile_id": "dkargaev",
+    "entity_urn": "ACoAACyRQmcBPiv810iO8Y-FL6poGk4MVilA7Ao",
+    "info": "For high-volume use of our LinkedIn API, visit https://iscraper.io or send an email at sales@iscraper.io to discuss the pricing.",
+    "certifications": [
+        {
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_400_400/0/1626275253364?e=1689206400&v=beta&t=-kUflgv9vg-7otEBELdjqtqIQ90X1rFWQS08yAKYqD0",
+                "name": "Udemy"
+            },
+            "date": {
+                "end": {
+                    "year": null,
+                    "month": null
+                },
+                "start": {
+                    "year": 2022,
+                    "month": 10
+                }
+            },
+            "license_number": "UC-84aaca06-76b5-4cf6-8d9f-d5e669292e78",
+            "url": "https://www.udemy.com/certificate/UC-84aaca06-76b5-4cf6-8d9f-d5e669292e78/",
+            "name": "Master Digital Product Design: UX Research & UI Design",
+            "display_source": "udemy.com",
+            "authority": "Udemy"
+        },
+        {
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE0iRUqSJueUw/company-logo_400_400/0/1519902704390?e=1689206400&v=beta&t=VH76Nc9xnTGTFZDneZXV5smI3xfVB3ImrocNIOiWafU",
+                "name": "EF Standard English Test (EF SET) "
+            },
+            "date": {
+                "end": {
+                    "year": null,
+                    "month": null
+                },
+                "start": {
+                    "year": 2020,
+                    "month": 4
+                }
+            },
+            "license_number": null,
+            "url": "https://www.efset.org/cert/4Sr7UG",
+            "name": "EF SET English Certificate 79/100 (C2 Proficient)",
+            "display_source": "efset.org",
+            "authority": "EF Standard English Test (EF SET) "
+        }
+    ],
+    "publications": {},
+    "patents": {},
+    "first_name": "Dmitry",
+    "influencer": false,
+    "contact_info": {
+        "twitter": null,
+        "websites": [
+            {
+                "url": "https://kargaev.me",
+                "type": "personal"
+            }
+        ],
+        "email": "hi@kargaev.me"
+    },
+    "sub_title": "Product designer with over 7 years of experience, who strives to help people connect with a product through design",
+    "courses": {},
+    "recommendations": {},
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQH0_x7MC2Oa0g/profile-displayphoto-shrink_400_400/0/1633006604569?e=1686787200&v=beta&t=puzSjfotEB_yO2-q8k1j1OoibLBROO_9HVD-5A9GirI",
+    "awards": {},
+    "last_name": "Kargaev",
+    "object_urn": "747717223",
+    "education": [
+        {
+            "field_of_study": "Computer and Information Systems Security/Information Assurance",
+            "degree_name": "Bachelor's degree",
+            "date": {
+                "end": {
+                    "year": 2017,
+                    "month": null
+                },
+                "start": {
+                    "year": 2013,
+                    "month": null
+                }
+            },
+            "school": {
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFCrFNNJc6x_Q/company-logo_400_400/0/1564564847157?e=1689206400&v=beta&t=GmqIonO8jnUnrotYPdwioMMzV9qHhvZbRiAtCNIDqAk",
+                "name": "Moscow State Linguistic University"
+            }
+        },
+        {
+            "field_of_study": "Web Design Intensive",
+            "degree_name": null,
+            "date": {
+                "end": {
+                    "year": 2018,
+                    "month": null
+                },
+                "start": {
+                    "year": 2017,
+                    "month": null
+                }
+            },
+            "school": {
+                "logo": null,
+                "name": "WDI"
+            }
+        },
+        {
+            "field_of_study": "Web design (UX/UI)",
+            "degree_name": null,
+            "date": {
+                "end": {
+                    "year": 2019,
+                    "month": null
+                },
+                "start": {
+                    "year": 2018,
+                    "month": null
+                }
+            },
+            "school": {
+                "logo": null,
+                "name": "Moscow Digital Academy"
+            }
+        }
+    ],
+    "skills": [
+        "UX/UI",
+        "Product Design",
+        "User Experience",
+        "Design Thinking",
+        "Figma",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "React.js",
+        "Web design",
+        "Principle",
+        "Typography",
+        "User Design",
+        "Photoshop",
+        "iOS",
+        "Android",
+        "User Experience (UX)",
+        "English",
+        "Interaction design",
+        "User Interface Design",
+        "Prototyping"
+    ],
+    "projects": [
+        {
+            "contributors": [
+                {
+                    "first_name": "Dmitry",
+                    "last_name": "Kargaev",
+                    "headline": "Product designer with over 7 years of experience, who strives to help people connect with a product through design",
+                    "type": "standardizedContributor"
+                }
+            ],
+            "title": "VALK / Corda-based Investment Platform",
+            "date": {
+                "end": {
+                    "year": null,
+                    "month": null
+                },
+                "start": {
+                    "year": 2019,
+                    "month": 11
+                }
+            },
+            "description": "— Developed UX & UI for all digital asset needs (dashboards, data room, KYC, Q&A, etc.) in close collaboration with developers using React & Blockchain smart-contracts as only Product Designer. \n— The project passed 450+ financial institutions connected, $2 billion assets on the platform, achieved 5 industry awards (Swiss Fintech Awards, Sell-Side Tech, etc.), and featured on Yahoo.Finance and CNN.\n— Led all related channels (marketing, logos, social post images, websites, etc.)"
+        },
+        {
+            "contributors": [
+                {
+                    "first_name": "Dmitry",
+                    "last_name": "Kargaev",
+                    "headline": "Product designer with over 7 years of experience, who strives to help people connect with a product through design",
+                    "type": "standardizedContributor"
+                }
+            ],
+            "title": "Kaspersky United / Marketing Project",
+            "date": {
+                "end": {
+                    "year": 2020,
+                    "month": 3
+                },
+                "start": {
+                    "year": 2019,
+                    "month": 11
+                }
+            },
+            "description": "— Designed the general concept for worldwide vendors within strict brand guidelines to increase and hit the last year amount of MSP partners (3,000+) \n— Led design vision, managing project and meetings, organizing the team of 4 designers (graphic, UI, and motion designers) and developers with the delivery ahead of time."
+        },
+        {
+            "contributors": [
+                {
+                    "first_name": "Dmitry",
+                    "last_name": "Kargaev",
+                    "headline": "Product designer with over 7 years of experience, who strives to help people connect with a product through design",
+                    "type": "standardizedContributor"
+                }
+            ],
+            "title": "Fashion Startup / DNA",
+            "date": {
+                "end": {
+                    "year": 2019,
+                    "month": 11
+                },
+                "start": {
+                    "year": 2019,
+                    "month": 9
+                }
+            },
+            "description": "— Researched and maintained the UX process for the innovative AI+AR body measurement process, which helped the brand brought the first funding. \n— As the only designer, made the whole project from scratch, including logotype, brand identity, packaging, UX & UI of website, and cross-platform mobile app."
+        },
+        {
+            "contributors": [
+                {
+                    "first_name": "Dmitry",
+                    "last_name": "Kargaev",
+                    "headline": "Product designer with over 7 years of experience, who strives to help people connect with a product through design",
+                    "type": "standardizedContributor"
+                }
+            ],
+            "title": "OTPBank Loyalty Program / Mobile Application & Web-site",
+            "date": {
+                "end": {
+                    "year": 2019,
+                    "month": 7
+                },
+                "start": {
+                    "year": 2018,
+                    "month": 10
+                }
+            },
+            "description": "— In collaboration with the team of developers brought the cross-platform loyalty program \nto completion. Created designs for iOS, Android, and web-version of applications. \n— General user coverage of the loyalty program reaches 50,000+ users and 500+ institutional partners."
+        },
+        {
+            "contributors": [
+                {
+                    "first_name": "Dmitry",
+                    "last_name": "Kargaev",
+                    "headline": "Product designer with over 7 years of experience, who strives to help people connect with a product through design",
+                    "type": "standardizedContributor"
+                }
+            ],
+            "title": "Metro Cash & Carry / Event Marketing Project",
+            "date": {
+                "end": {
+                    "year": 2019,
+                    "month": 6
+                },
+                "start": {
+                    "year": 2019,
+                    "month": 1
+                }
+            },
+            "description": "— Developed the maintenance of marketing programs and events within brand lines. Worked with data and turned 32 pages report into one small multi-landing. Closely collaborated with client marketers. \n— Events passed 400+ institutional partners and 30,000+ participants with 350 workshops and seminars."
+        },
+        {
+            "contributors": [
+                {
+                    "first_name": "Dmitry",
+                    "last_name": "Kargaev",
+                    "headline": "Product designer with over 7 years of experience, who strives to help people connect with a product through design",
+                    "type": "standardizedContributor"
+                }
+            ],
+            "title": "Diageo / Software Interface",
+            "date": {
+                "end": {
+                    "year": 2018,
+                    "month": 9
+                },
+                "start": {
+                    "year": 2018,
+                    "month": 7
+                }
+            },
+            "description": "— Brainstormed and crafted assistance application with the non-standard interface for a big-size tablet for in-store use."
+        }
+    ],
+    "test_scores": {},
+    "related_profiles": [
+        {
+            "first_name": "William",
+            "title": "Senior Lead UX/UI/XR Designer at The Aerospace Corporation",
+            "profile_id": "william-vazquez",
+            "last_name": "Vazquez",
+            "image_url": "https://media.licdn.com/dms/image/C4E03AQEU_xvJ0Q1GzQ/profile-displayphoto-shrink_400_400/0/1533034053140?e=1686787200&v=beta&t=Y_-jhw0b_jG3Y_FQpO2iWrt9pqo59PlXk0RePMJNfEA"
+        },
+        {
+            "first_name": "James",
+            "title": "Narrative Designer | Storyteller | Nerd",
+            "profile_id": "jamesfite",
+            "last_name": "Fite",
+            "image_url": "https://media.licdn.com/dms/image/D5635AQGT8faxJqQMew/profile-framedphoto-shrink_800_800/0/1657294918261?e=1681671600&v=beta&t=RyHPzGIIGulkIxCiAydw5MZi9Xr_oM4gYBYN86M2T1o"
+        },
+        {
+            "first_name": "Andreas",
+            "title": "Growth Manager at VALK",
+            "profile_id": "andreaszavitsanos",
+            "last_name": "Zavitsanos",
+            "image_url": "https://media.licdn.com/dms/image/C4E03AQEbQA96YR_xJQ/profile-displayphoto-shrink_400_400/0/1656950332525?e=1686787200&v=beta&t=Vg3JqmUiNqCdKl9UuRK83vF55-MJ9MkawtvPSKBmy3w"
+        },
+        {
+            "first_name": "Miquel",
+            "title": "Fullstack Blockchain Developer",
+            "profile_id": "miqueltc",
+            "last_name": "T.",
+            "image_url": "https://media.licdn.com/dms/image/C4E03AQG4juvgdoAzNQ/profile-displayphoto-shrink_400_400/0/1650483597555?e=1686787200&v=beta&t=ZRaskKpaHX4X13_ez-zgkqTwSJtlyUJ-2FWGWBU4kpI"
+        },
+        {
+            "first_name": "Alex",
+            "title": "Senior React Developer - Valk",
+            "profile_id": "alex-bardadym-596baa186",
+            "last_name": "Bardadym",
+            "image_url": "https://media.licdn.com/dms/image/C4D03AQEV_knlSYN-FQ/profile-displayphoto-shrink_400_400/0/1581432857457?e=1686787200&v=beta&t=9IzofpbhKBB6Gzm9lhmr3ByJpV4FElrxyzVywtlNNGk"
+        },
+        {
+            "first_name": "Antoine",
+            "title": "Co-Founder | CEO @ VALK - Your gateway to smart DeFi",
+            "profile_id": "antoine-loth-040a5a8a",
+            "last_name": "Loth",
+            "image_url": null
+        },
+        {
+            "first_name": "Anton",
+            "title": "Corda, Kotlin, Java Lead Developer, Senior researcher, Vice Professor",
+            "profile_id": "anton-germashev-phd-ab3641130",
+            "last_name": "Germashev",
+            "image_url": null
+        },
+        {
+            "first_name": "Hugo",
+            "title": "LSE",
+            "profile_id": "hugomarshall",
+            "last_name": "Marshall",
+            "image_url": "https://media.licdn.com/dms/image/C5603AQF732tqywl5FA/profile-displayphoto-shrink_400_400/0/1656949936895?e=1686787200&v=beta&t=7A7SrbM4sMZxFRk5Rhc9pA_xCWbSijgUDuy1iAwFVak"
+        },
+        {
+            "first_name": "Viktor",
+            "title": "Back-End Developer",
+            "profile_id": "viktor-logominov-a06786a1",
+            "last_name": "Logominov",
+            "image_url": "https://media.licdn.com/dms/image/C5603AQHf1rc3MQnnIg/profile-displayphoto-shrink_400_400/0/1577651789027?e=1686787200&v=beta&t=oUomKwECPrcoJkEwTD6Ac9F43jqee_VBKsS6PEzKIdw"
+        },
+        {
+            "first_name": "Albert",
+            "title": "Front End Developer at VALK",
+            "profile_id": "albatros1k",
+            "last_name": "Em",
+            "image_url": "https://media.licdn.com/dms/image/C4D03AQFkA6A4G1yW0A/profile-displayphoto-shrink_400_400/0/1638943062990?e=1686787200&v=beta&t=rzem4e91QMzl4M6owiPL9Rzs3rRyAoEERg-wWk69Sdg"
+        }
+    ],
+    "volunteer_experiences": {},
+    "premium": false,
+    "birth_date": null,
+    "organizations": {},
+    "summary": "I'm a Product Designer with over 7 years of experience in research and problem solving, striving to help people connect with a product through design.\n\nCurrently, I’m based in Los Angeles, California.\n\nI create intuitively clear human-centered design solutions with attention to detail. I specialize in designing apps, websites, and interfaces.\n\nI've worked on famous brand projects, including Kaspersky, OTPBank, Metro C&C, and Diageo. Also, I'm experienced in managing and guiding projects as a UX/UI Lead Designer.\n\nI travel, play the guitar, or stay active when I'm not designing. At the moment I’m learning smart contracts and NFT and have my own NFT project. Happy to have a chat, so feel free to contact me anytime.",
+    "languages": {
+        "profile_languages": [
+            {
+                "proficiency": "PROFESSIONAL_WORKING",
+                "name": "English"
+            },
+            {
+                "proficiency": "NATIVE_OR_BILINGUAL",
+                "name": "Russian"
+            }
+        ],
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ]
+    },
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "DKargaevResume.pdf",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQGOEXx18onrfQ/profile-treasury-document-cover-images_1280/0/1648607958317?e=1681671600&v=beta&t=3flHwpJpT12CielNGUi2h0K6tmB9czVO4APF58XBKqY",
+            "description": "Work Experience, Education & Projects"
+        },
+        {
+            "url": "https://www.kargaev.me",
+            "title": "Dmitry Kargaev — UX/UI designer. Resume & Portfolio",
+            "image": "https://media.licdn.com/dms/image/sync/C5627AQHoXtWryw9bzg/articleshare-shrink_800/0/1679942976914?e=1681671600&v=beta&t=rxhbWv9kW15bvo26HhBdvIkVo0sZndIDmAckeR5qkpg",
+            "description": "I ‘m an experienced UX/UI designer who focuses on making users' life easier"
+        }
+    ],
+    "location": {
+        "short": "Los Angeles Metropolitan Area",
+        "city": null,
+        "country": "United States",
+        "default": "Los Angeles Metropolitan Area",
+        "state": null
+    },
+    "industry": "Design"
+}

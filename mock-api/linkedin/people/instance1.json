@@ -1,0 +1,733 @@
+{
+    "position_groups": [
+        {
+            "profile_positions": [
+                {
+                    "title": "Head of Product Design",
+                    "date": {
+                        "end": {
+                            "year": null,
+                            "month": null
+                        },
+                        "start": {
+                            "year": 2021,
+                            "month": 7
+                        }
+                    },
+                    "description": null,
+                    "location": "London, England, United Kingdom",
+                    "company": "Lumar (formerly Deepcrawl)"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHxZJ_gui6NIQ/company-logo_400_400/0/1664456716718?e=1689206400&v=beta&t=n8nUW1_P46ySecriwrHVifLebYmDnfkdxUm0M21d-jI",
+                "name": "Deepcrawl ",
+                "url": "https://www.linkedin.com/company/lumarhq/",
+                "employees": {
+                    "end": 200,
+                    "start": 51
+                }
+            },
+            "date": {
+                "end": {
+                    "year": null,
+                    "month": null
+                },
+                "start": {
+                    "year": 2021,
+                    "month": 7
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/lumarhq/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Senior Product Designer",
+                    "date": {
+                        "end": {
+                            "year": 2021,
+                            "month": 9
+                        },
+                        "start": {
+                            "year": 2021,
+                            "month": 3
+                        }
+                    },
+                    "description": null,
+                    "location": "Salzburg, Austria",
+                    "company": "Red Bull"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C560BAQGxY4hvWXJqiA/company-logo_400_400/0/1530610471462?e=1689206400&v=beta&t=EsmORynBgNKd9PYqHagqGxmcrrtaeBe2ztLbcYESllA",
+                "name": "Red Bull",
+                "url": "https://www.linkedin.com/company/red-bull/",
+                "employees": {
+                    "end": null,
+                    "start": 10001
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2021,
+                    "month": 9
+                },
+                "start": {
+                    "year": 2021,
+                    "month": 3
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/red-bull/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Founder",
+                    "date": {
+                        "end": {
+                            "year": 2020,
+                            "month": 10
+                        },
+                        "start": {
+                            "year": 2016,
+                            "month": null
+                        }
+                    },
+                    "description": "My latest venture, Fortnight is a design and development studio based in the wonderful city of Manchester. We brand, design and build incredible user-focused products, apps and services. \n\nIn ~14 months, we've worked with an amazing roster of well-funded startups and (geeky) household names:\n- 16Personalities\n- CliQ\n- Coder Society \n- Dubber\n- GoGuru\n- Gruntwork \n- Jaguar Land Rover\n- King\n- Riot Games \n- Serverless",
+                    "location": "Manchester, United Kingdom",
+                    "company": "Fortnight Studio"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHJvXnYtTfZoA/company-logo_400_400/0/1640094338674?e=1689206400&v=beta&t=g-3esz9D1TcCTkm5PtuWQMpBmQnFGt5LKKHAmRDp3DU",
+                "name": "Fortnight Studio",
+                "url": "https://www.linkedin.com/company/studiofortnight/",
+                "employees": {
+                    "end": 50,
+                    "start": 11
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2020,
+                    "month": 10
+                },
+                "start": {
+                    "year": 2016,
+                    "month": null
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/studiofortnight/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Lead UX   (Consultant)",
+                    "date": {
+                        "end": {
+                            "year": 2020,
+                            "month": 4
+                        },
+                        "start": {
+                            "year": 2017,
+                            "month": 8
+                        }
+                    },
+                    "description": null,
+                    "location": "London, United Kingdom",
+                    "company": "Voxbone (now Bandwidth)"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFi3_VWNGnXpA/company-logo_400_400/0/1631105683496?e=1689206400&v=beta&t=f9UrnqIUE19GA9j7k_yFft_6a6jIXmh52BqazIDupK0",
+                "name": "Voxbone",
+                "url": "https://www.linkedin.com/company/voxbone/",
+                "employees": {
+                    "end": 200,
+                    "start": 51
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2020,
+                    "month": 4
+                },
+                "start": {
+                    "year": 2017,
+                    "month": 8
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/voxbone/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "UX Consultant",
+                    "date": {
+                        "end": {
+                            "year": 2018,
+                            "month": 10
+                        },
+                        "start": {
+                            "year": 2018,
+                            "month": 2
+                        }
+                    },
+                    "description": null,
+                    "location": null,
+                    "company": "Estars Studios"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C560BAQEc394Xr6DRRQ/company-logo_400_400/0/1559321395910?e=1689206400&v=beta&t=tgoQkYYW6zTM9yiHmh2Ar6C48-hib-I5cegtRHr-6N4",
+                "name": "ESP Gaming",
+                "url": "https://www.linkedin.com/company/estarsstudios/",
+                "employees": {
+                    "end": 10,
+                    "start": 2
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2018,
+                    "month": 10
+                },
+                "start": {
+                    "year": 2018,
+                    "month": 2
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/estarsstudios/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Mobile User Experience Specialist",
+                    "date": {
+                        "end": {
+                            "year": 2018,
+                            "month": 9
+                        },
+                        "start": {
+                            "year": 2018,
+                            "month": 1
+                        }
+                    },
+                    "description": null,
+                    "location": "Manchester, United Kingdom",
+                    "company": "The Motley Fool"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH0EYQwPqNy7A/company-logo_400_400/0/1593525482170?e=1689206400&v=beta&t=2m_ck9pTCFEiapI5tw_lxnEpiLQ2y4ETFcTxVUrMzcE",
+                "name": "The Motley Fool",
+                "url": "https://www.linkedin.com/company/the-motley-fool/",
+                "employees": {
+                    "end": 1000,
+                    "start": 501
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2018,
+                    "month": 9
+                },
+                "start": {
+                    "year": 2018,
+                    "month": 1
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/the-motley-fool/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "User Experience Consultant",
+                    "date": {
+                        "end": {
+                            "year": 2018,
+                            "month": 8
+                        },
+                        "start": {
+                            "year": 2018,
+                            "month": 6
+                        }
+                    },
+                    "description": null,
+                    "location": "Manchester, United Kingdom",
+                    "company": "ModernTax"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C560BAQEFZfN2MqZhrA/company-logo_400_400/0/1615573799596?e=1689206400&v=beta&t=w7lrL9jn73LDm2ahK7W_wPgefG_3WJxjBCGForSML8E",
+                "name": "RefundNote",
+                "url": "https://www.linkedin.com/company/moderntax/",
+                "employees": {
+                    "end": 10,
+                    "start": 2
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2018,
+                    "month": 8
+                },
+                "start": {
+                    "year": 2018,
+                    "month": 6
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/moderntax/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "User Experience Lead",
+                    "date": {
+                        "end": {
+                            "year": 2018,
+                            "month": 5
+                        },
+                        "start": {
+                            "year": 2018,
+                            "month": 4
+                        }
+                    },
+                    "description": null,
+                    "location": "Manchester, Greater Manchester, United Kingdom",
+                    "company": "Zen Blockchain Foundation"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHf-LO6QesT2Q/company-logo_400_400/0/1534971832237?e=1689206400&v=beta&t=8UqB3NACWwY-oLNk_gdGmwg5Ack2cII5-m_4esknVZo",
+                "name": "Zen Blockchain Foundation",
+                "url": "https://www.linkedin.com/company/zenblockchainfoundation/",
+                "employees": {
+                    "end": 10,
+                    "start": 2
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2018,
+                    "month": 5
+                },
+                "start": {
+                    "year": 2018,
+                    "month": 4
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/zenblockchainfoundation/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Lead UX  (Consultant)",
+                    "date": {
+                        "end": {
+                            "year": 2017,
+                            "month": 5
+                        },
+                        "start": {
+                            "year": 2016,
+                            "month": 1
+                        }
+                    },
+                    "description": null,
+                    "location": "County Dublin, Ireland",
+                    "company": "Riot Games"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C560BAQH_f5CUhbR8Zg/company-logo_400_400/0/1664212795549?e=1689206400&v=beta&t=i8Fsr0lRh4RVUpbwEh60J6F4VwvR5BsAFE7T8E4q5wM",
+                "name": "Riot Games",
+                "url": "https://www.linkedin.com/company/riot-games/",
+                "employees": {
+                    "end": 5000,
+                    "start": 1001
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2017,
+                    "month": 5
+                },
+                "start": {
+                    "year": 2016,
+                    "month": 1
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/riot-games/"
+        },
+        {
+            "profile_positions": [
+                {
+                    "title": "Founder",
+                    "date": {
+                        "end": {
+                            "year": 2016,
+                            "month": null
+                        },
+                        "start": {
+                            "year": 2014,
+                            "month": null
+                        }
+                    },
+                    "description": "Co-founder. We worked with incredible list of clients and built incredible side projects specialising in UI, UX and web design. I left Brotherhood to pursue new interests, but the studio is still going strong to this day.\n\nNotable clients include: \n- Badoo \n- Bumble \n- Booking.com \n- Feedly \n- Kello",
+                    "location": "Manchester, United Kingdom",
+                    "company": "Brotherhood"
+                }
+            ],
+            "company": {
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGtrbYI_PD7Xw/company-logo_400_400/0/1638209928697?e=1689206400&v=beta&t=MbLpCRpF_YNfgPeNYy9HxvG-f3p6Th3U1POt_LEC7F4",
+                "name": "Brotherhood",
+                "url": "https://www.linkedin.com/company/bthdmx/",
+                "employees": {
+                    "end": 10,
+                    "start": 2
+                }
+            },
+            "date": {
+                "end": {
+                    "year": 2016,
+                    "month": null
+                },
+                "start": {
+                    "year": 2014,
+                    "month": null
+                }
+            },
+            "company_url": "https://www.linkedin.com/company/bthdmx/"
+        }
+    ],
+    "profile_id": "fffabs",
+    "entity_urn": "ACoAAAMTFpABbB8gsLasS-ic57ZmHFixbTpX6-M",
+    "info": "For high-volume use of our LinkedIn API, visit https://iscraper.io or send an email at sales@iscraper.io to discuss the pricing.",
+    "certifications": {},
+    "publications": {},
+    "patents": {},
+    "first_name": "Fabio",
+    "influencer": false,
+    "contact_info": {
+        "twitter": "fffabs",
+        "websites": [
+            {
+                "url": "https://fffabs.dribbble.com",
+                "type": "portfolio"
+            }
+        ],
+        "email": null
+    },
+    "sub_title": "Multilingual Creative Maverick: Fusing Business & Design Expertise | Masterful Content Architect | Charismatic Public Speaker, 14+ years designing interfaces.",
+    "courses": {},
+    "recommendations": [
+        {
+            "first_name": "Nathan",
+            "created_at": "2011-03-04T08:14:03.440000",
+            "profile_id": "thenathanbradshaw",
+            "occupation": "Principal Developer at Auto Trader UK",
+            "last_name": "B.",
+            "updated_at": "2011-03-04T12:53:18.354000",
+            "text": "Fabio is one of the harder workers I'v met; always putting in (too much of) his personal time to ensure that his work and projects are delivered on time. A credit to whoever he ends up working for/with/employing."
+        }
+    ],
+    "profile_picture": "https://media.licdn.com/dms/image/D5603AQFvRPI7R_h7pw/profile-displayphoto-shrink_400_400/0/1680735111804?e=1686787200&v=beta&t=twcCFVuv3Qfg7sRXcBRJCJRqMFNGXVbT4uK-ZXdvOTQ",
+    "awards": [
+        {
+            "issuer": "University of Central Lancashire",
+            "title": "BSc (HONS) Computer Games Development.",
+            "date": {
+                "year": 2009,
+                "month": 5
+            },
+            "description": null
+        }
+    ],
+    "last_name": "Basile",
+    "object_urn": "51582608",
+    "education": [
+        {
+            "field_of_study": null,
+            "degree_name": "Software Engineering & Computer Games Development",
+            "date": {
+                "end": {
+                    "year": 2009,
+                    "month": null
+                },
+                "start": {
+                    "year": 2007,
+                    "month": null
+                }
+            },
+            "school": {
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEpYjLJop5d3g/company-logo_400_400/0/1663750298072?e=1689206400&v=beta&t=Nw6uAmRgFlalCHLhiFxttZ7sKfSiLXZq_Yw_LQ2CYHA",
+                "name": "University of Central Lancashire"
+            }
+        }
+    ],
+    "skills": [
+        "Project Management",
+        "Strategic Partnerships",
+        "Games ui",
+        "founder",
+        "Product Design",
+        "User Experience (UX)",
+        "User Interface Design",
+        "Mobile Applications",
+        "Web Development",
+        "User Experience",
+        "Web Applications"
+    ],
+    "projects": [
+        {
+            "contributors": [
+                {
+                    "first_name": "Fabio",
+                    "last_name": "Basile",
+                    "headline": "Multilingual Creative Maverick: Fusing Business & Design Expertise | Masterful Content Architect | Charismatic Public Speaker, 14+ years designing interfaces.",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "Nikolai",
+                    "last_name": "Onken",
+                    "headline": "Technology Leadership Asymmetric, Founder at Nangu",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "Wolfram",
+                    "last_name": "Kriesing",
+                    "headline": "Developer at Sono Motors GmbH",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "Tobias",
+                    "last_name": "von Klipstein",
+                    "headline": "Architect Player & Monetization at glomex GmbH",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "David",
+                    "last_name": "Aurelio",
+                    "headline": "Senior Software Engineer at Adobe",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "Jens",
+                    "last_name": "Arps",
+                    "headline": "JavaScript Developer",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "James",
+                    "last_name": "Padolsey",
+                    "headline": "Recovery and personal projects",
+                    "type": "standardizedContributor"
+                }
+            ],
+            "title": "BonsaiJS",
+            "date": {
+                "end": {
+                    "year": null,
+                    "month": null
+                },
+                "start": {
+                    "year": 2015,
+                    "month": 7
+                }
+            },
+            "description": "BonsaiJS is an open-source graphics library for Flash to HTML5 conversion."
+        },
+        {
+            "contributors": [
+                {
+                    "first_name": "Fabio",
+                    "last_name": "Basile",
+                    "headline": "Multilingual Creative Maverick: Fusing Business & Design Expertise | Masterful Content Architect | Charismatic Public Speaker, 14+ years designing interfaces.",
+                    "type": "standardizedContributor"
+                }
+            ],
+            "title": "Dribbble ",
+            "date": {
+                "end": {
+                    "year": null,
+                    "month": null
+                },
+                "start": {
+                    "year": 2010,
+                    "month": 3
+                }
+            },
+            "description": "My ever growing (and wonderful) design portfolio. "
+        },
+        {
+            "contributors": [
+                {
+                    "first_name": "Fabio",
+                    "last_name": "Basile",
+                    "headline": "Multilingual Creative Maverick: Fusing Business & Design Expertise | Masterful Content Architect | Charismatic Public Speaker, 14+ years designing interfaces.",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "Wolfram",
+                    "last_name": "Kriesing",
+                    "headline": "Developer at Sono Motors GmbH",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "Nikolai",
+                    "last_name": "Onken",
+                    "headline": "Technology Leadership Asymmetric, Founder at Nangu",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "Tobias",
+                    "last_name": "von Klipstein",
+                    "headline": "Architect Player & Monetization at glomex GmbH",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "David",
+                    "last_name": "Aurelio",
+                    "headline": "Senior Software Engineer at Adobe",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "first_name": "🌊 Peter",
+                    "last_name": "van der Zee",
+                    "headline": "Software Engineer at Vercel",
+                    "type": "standardizedContributor"
+                },
+                {
+                    "name": "James",
+                    "type": "nonStandardizedContributor"
+                }
+            ],
+            "title": "Pixelplant",
+            "date": {
+                "end": {
+                    "year": 2015,
+                    "month": 7
+                },
+                "start": {
+                    "year": 2012,
+                    "month": 7
+                }
+            },
+            "description": "Flash to HTML5 conversion"
+        }
+    ],
+    "test_scores": {},
+    "related_profiles": [
+        {
+            "first_name": "Timur",
+            "title": "Chief Product Officer",
+            "profile_id": "timur-garifzyanov",
+            "last_name": "Garifzyanov",
+            "image_url": "https://media.licdn.com/dms/image/C4E03AQGZ9_QDvYWHBA/profile-displayphoto-shrink_400_400/0/1626700668171?e=1686787200&v=beta&t=TWtYVPLrXqdSlY9xu0bpqXp-luNT6Nh48JfEXJXg9Q4"
+        },
+        {
+            "first_name": "Jonty",
+            "title": "Co-Founder & CPO @ Openline | YC S22 | Improving Customer Experiences with Data",
+            "profile_id": "jontyknox",
+            "last_name": "Knox",
+            "image_url": "https://media.licdn.com/dms/image/C4D03AQGMiWBEvSEzSQ/profile-displayphoto-shrink_400_400/0/1631554094505?e=1686787200&v=beta&t=kP32el4fDREkKYzDEyTQdgX-R4cJ8tGUhhPVrnL2gxo"
+        },
+        {
+            "first_name": "Matt",
+            "title": "CEO @ Openline - ❤️ your customers 🤗",
+            "profile_id": "mateocafe",
+            "last_name": "Brown",
+            "image_url": "https://media.licdn.com/dms/image/C5603AQHuVu3mRmLThw/profile-displayphoto-shrink_400_400/0/1630867766839?e=1686787200&v=beta&t=bYwua-Y6Ub-pbuR3amyiPd5H7EB88mJeq3oizjePKDk"
+        },
+        {
+            "first_name": "Gabriel",
+            "title": "Founding Engineer at Openline",
+            "profile_id": "gabrielgontariu",
+            "last_name": "Gontariu",
+            "image_url": "https://media.licdn.com/dms/image/C4E03AQGbe6bdJMgXeA/profile-displayphoto-shrink_400_400/0/1656673892094?e=1686787200&v=beta&t=lcdBwhzBFiQKhFPwDiX1UJHpnbMgpfYVz2GyZVRdy6Q"
+        },
+        {
+            "first_name": "Yigit",
+            "title": "Private Sector: Creative Business Development || Third Sector: Operations & Projects",
+            "profile_id": "yigitusenmez",
+            "last_name": "U.",
+            "image_url": "https://media.licdn.com/dms/image/D4E03AQHv02jqazP2CA/profile-displayphoto-shrink_400_400/0/1677260947653?e=1686787200&v=beta&t=X2z7UrDTNDg5GuEMSWOF9c04VhiJbzERXlDxVejF3PU"
+        },
+        {
+            "first_name": "Alexandru",
+            "title": "Founding Engineer @ Openline",
+            "profile_id": "alexandrubasarab",
+            "last_name": "Basarab",
+            "image_url": "https://media.licdn.com/dms/image/C4D03AQH2UsYDaCYnHw/profile-displayphoto-shrink_400_400/0/1659637266989?e=1686787200&v=beta&t=c1JeKHwKiWx09rgrMR0YKm4qQwSaefYHj7rMGE8nPU4"
+        },
+        {
+            "first_name": "Matt",
+            "title": "Class Teacher",
+            "profile_id": "matt-hinkley-a5aa3536",
+            "last_name": "Hinkley",
+            "image_url": "https://media.licdn.com/dms/image/C5603AQEL8NWFNRnANw/profile-displayphoto-shrink_400_400/0/1572612257544?e=1686787200&v=beta&t=UVEfvYLoc527P7cYXXCfhuI6WnspOIcn5xO5pj1uqAI"
+        },
+        {
+            "first_name": "Gabrielle",
+            "title": "Incoming Store Executive Intern @ Target | Double Major in Business Management and Marketing | Campbell University Dance Team",
+            "profile_id": "gabriellecappola",
+            "last_name": "Cappola",
+            "image_url": "https://media.licdn.com/dms/image/D5603AQGwlbFRDrlkhQ/profile-displayphoto-shrink_400_400/0/1675220034526?e=1686787200&v=beta&t=C55Jt_4TI63KRrFAnCzCm2X3HX__Fw6IMKGi-IQHjJM"
+        },
+        {
+            "first_name": "Vasilica",
+            "title": "Co-Founder & CTO @ Openline(YC S22)",
+            "profile_id": "vasilica-coscotin-2755b153",
+            "last_name": "Coscotin",
+            "image_url": "https://media.licdn.com/dms/image/C5103AQFTxMEhL84ZNQ/profile-displayphoto-shrink_400_400/0/1516679164403?e=1686787200&v=beta&t=2LvmYK0cCVRIBBtmCf1KQPuq1dbqhVKUZzSY5JrlBuk"
+        },
+        {
+            "first_name": "Raphael",
+            "title": "UX/UI Designer",
+            "profile_id": "raphaellopes",
+            "last_name": "Lopes",
+            "image_url": "https://media.licdn.com/dms/image/C4E03AQHyrm3qwXCqGw/profile-displayphoto-shrink_400_400/0/1656955934680?e=1686787200&v=beta&t=n3Vow7USUGyAX1WlLc7Bp1IN2RVRL1kn-lp9Su-d8Fw"
+        }
+    ],
+    "volunteer_experiences": {},
+    "premium": true,
+    "birth_date": null,
+    "organizations": {},
+    "summary": "Hi, I'm Fabio! As a self-taught digital designer, I specialise in UI and UX, leveraging my combined Bachelor's Degree in software engineering and game development to create innovative and user-focused designs.\n\nMy work has been featured in prestigious publications such as Mashable, The Next Web, TechCrunch, MacStories, and The New York Times. I'm also proud to have won several awards, including the coveted iOS App of the Year.\n\nOver the past 13+ years, I've had the pleasure of working with more than 150 clients across 30+ locations worldwide. I am passionate about problem-solving, crafting seamless user experiences, and paying meticulous attention to detail to ensure the success of my client's projects.\n\nI'm always excited to connect with fellow professionals, exchange insights, and explore new opportunities to make a lasting impact in the digital design world. Let's collaborate and create exceptional experiences together!",
+    "languages": {
+        "profile_languages": [
+            {
+                "proficiency": "NATIVE_OR_BILINGUAL",
+                "name": "English"
+            },
+            {
+                "proficiency": "NATIVE_OR_BILINGUAL",
+                "name": "English"
+            },
+            {
+                "proficiency": "NATIVE_OR_BILINGUAL",
+                "name": "Italian"
+            }
+        ],
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ]
+    },
+    "treasury_media": {},
+    "location": {
+        "short": "Manchester Area, United Kingdom",
+        "city": "Manchester Area",
+        "country": "United Kingdom",
+        "default": "Manchester Area, United Kingdom",
+        "state": "United Kingdom"
+    },
+    "industry": "Design"
+}
